@@ -33,7 +33,7 @@ int main() {
 ## Build & run
 
 ```sh
-g++ -std=c++17 -Wall -Wextra src/main.cpp -o tinyjson
+g++ -std=c++20 -Wall -Wextra src/main.cpp -o tinyjson
 ./tinyjson
 ```
 

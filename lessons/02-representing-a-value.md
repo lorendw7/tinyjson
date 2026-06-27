@@ -49,7 +49,7 @@ valid. It is wasteful but maximally clear. Lesson 08+ replaces it with
 ## Build & run
 
 ```sh
-g++ -std=c++17 -Wall -Wextra src/main.cpp -o tinyjson && ./tinyjson
+g++ -std=c++20 -Wall -Wextra src/main.cpp -o tinyjson && ./tinyjson
 ```
 
 Expected:
